@@ -1,5 +1,5 @@
 #image: http://my-docker-registry/my-docker-image:version
-image: wasabeef/android
+image: ichigotake/docker-android-base
 script:
     - ./gradlew build
 #notify:
