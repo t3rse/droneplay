@@ -1,5 +1,5 @@
 #image: http://my-docker-registry/my-docker-image:version
-image: ahazem/android:v0.7.6 
+image: vmlinz/android:v0.7.6 
 script:
     - ./gradlew build
 #notify:
